@@ -5,6 +5,9 @@
   align-items: center;
   max-width: 300px;
   min-height: 300px;
+  border: 1px solid whitesmoke;
+
+  border-radius: 4px;
 }
 
 .button-section {
